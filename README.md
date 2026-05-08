@@ -1,42 +1,108 @@
-<h1>👋 Hello, I'm Arif Ahmmad Sumon</h1>
+<div align="center">
+
+# 👋 Hi, I'm Arif Ahmmad Sumon
+
+### 🚀 Full-Stack Web Developer | Next.js & TypeScript Specialist
 
 <p>
-I’m a passionate <strong>Full-Stack Web Developer</strong> focused on building fast, scalable, and user-friendly web applications. 
-I enjoy turning complex business logic into clean, reliable systems with modern technologies.
+I build fast, scalable, and user-focused web applications with modern technologies.
+Passionate about creating clean UI, robust backend systems, and solving real-world business problems through code.
 </p>
-
-<h3>🚀 What I Work With</h3>
-
-<ul>
-  <li><strong>Frontend:</strong> HTML, CSS, JavaScript, Tailwind CSS, Bootstrap</li>
-  <li><strong>Frameworks:</strong> React.js, Next.js (App Router)</li>
-  <li><strong>Language:</strong> TypeScript</li>
-  <li><strong>State:</strong> Zustand</li>
-  <li><strong>Backend:</strong> Node.js, API Routes, Server Actions</li>
-  <li><strong>Database:</strong> MongoDB, Mongoose</li>
-  <li><strong>Auth:</strong> NextAuth / Auth.js, Role-Based Access</li>
-  <li><strong>System Design:</strong> Inventory, Supplier, Dealer & Consumer Management</li>
-  <li><strong>Tools:</strong> Git, GitHub, Vercel, VS Code</li>
-</ul>
-
-<h3>✨ What I Love Building</h3>
-
-<ul>
-  <li>Admin Dashboards</li>
-  <li>Inventory & POS Systems</li>
-  <li>B2B / B2C Web Applications</li>
-  <li>Authentication Systems</li>
-  <li>Clean UI with scalable backend logic</li>
-</ul>
 
 <p>
-I love crafting pixel-perfect designs, adding smooth UX, and solving real business problems with clean, maintainable code.
+  <a href="mailto:arifahmmadsumon@gmail.com">
+    <img src="https://img.shields.io/badge/Email-arifahmmadsumon%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/arif-ahmmad-sumon-4177bb27b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Arif%20Ahmmad%20Sumon-blue?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="https://sumon-portfolio-five.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel">
+  </a>
 </p>
 
-<h3>📫 Let’s Connect</h3>
+</div>
 
-<ul>
-  <li>📧 <strong>Email:</strong> <a href="mailto:arifahmmadsumon@gmail.com">arifahmmadsumon@gmail.com</a></li>
-  <li>💼 <strong>Portfolio:</strong> <a href="https://sumon-portfolio-five.vercel.app/">sumon-portfolio-five.vercel.app</a></li>
-  <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/arif-ahmmad-sumon-4177bb27b/">Arif Ahmmad Sumon</a></li>
-</ul>
+---
+
+# 💻 Tech Stack
+
+## 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+
+## ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,express" />
+</p>
+
+## 🛠 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+---
+
+# 🚀 What I Build
+
+✨ Modern Admin Dashboards  
+✨ Inventory & POS Systems  
+✨ B2B / B2C Web Applications  
+✨ Authentication & Role-Based Systems  
+✨ Supplier, Dealer & Consumer Management  
+✨ Scalable Backend Architecture  
+✨ Clean UI with Smooth UX
+
+---
+
+# 🧠 Core Skills
+
+- ⚡ Next.js App Router Architecture
+- ⚡ TypeScript Development
+- ⚡ REST API & Server Actions
+- ⚡ Authentication with NextAuth/Auth.js
+- ⚡ MongoDB & Mongoose Schema Design
+- ⚡ Zustand State Management
+- ⚡ Responsive & Pixel-Perfect UI
+- ⚡ Business Logic & System Design
+
+---
+
+# 🌟 About Me
+
+I enjoy transforming complex business requirements into clean, maintainable, and scalable systems.
+
+My focus is not just writing code — I care deeply about:
+
+- Performance
+- User Experience
+- Scalability
+- Clean Architecture
+- Real-world Business Solutions
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+  📧 Email: <a href="mailto:arifahmmadsumon@gmail.com">arifahmmadsumon@gmail.com</a>
+</p>
+
+<p align="left">
+  🌐 Portfolio: <a href="https://sumon-portfolio-five.vercel.app/">sumon-portfolio-five.vercel.app</a>
+</p>
+
+<p align="left">
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/arif-ahmmad-sumon-4177bb27b/">Arif Ahmmad Sumon</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ “Building scalable systems with clean code & modern UI.”
+
+</div>
